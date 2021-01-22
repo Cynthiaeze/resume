@@ -29,12 +29,12 @@ optimizing marketing campaigns and writing compelling sales copies that help max
 Responsible for planning and creating marketing campaigns both online and offline, generating contents 
 that connects, engages and converts customers.
  
-### <span>Clinical Nutritionist (Intern), Enugu State University Teaching Hospital, Parklane  </span> <span>April 2017 -- June 2017/span>
+### <span>Clinical Nutritionist (Intern), Enugu State University Teaching Hospital, Parklane  </span> <span>April 2017 -- June 2017</span>
 
 Provided nutrition education and counselled patients and families on nutrition issues, individually and in groups. Also carried out 
 nutrition assessments to determine risk and nutrition requirements.
 
-### <span>Food and Beverage Supervisor (Intern), Jucony Hotel and Resorts, Enugu              </span> <span>July 2017 -- October 2017/span>
+### <span>Food and Beverage Supervisor (Intern), Jucony Hotel and Resorts, Enugu              </span> <span>July 2017 -- October 2017</span>
 
 Was responsible for ensuring that all food and drinks are of the highest quality and complying with food and safety regulations.
 
