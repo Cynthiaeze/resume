@@ -19,12 +19,12 @@ creation..
 
 <!-- You have to wrap the "left" and "right" half of these headings in spans by
 hand -->
-### <span>Self-employed, Digital Marketing Freelancer                                         </span> <span>July 2020 -- Present</span>
+### <span>Self-employed, Digital Marketing Freelancer                      </span> <span>July 2020 -- Present</span>
 
 Help in making companies stand out from the crowd by boosting online visibility, enhancing brand awareness, 
 optimizing marketing campaigns and writing compelling sales copies that help maximize sales.
 
-### <span>Digital Marketing Manager, Softicu Technology                                       </span> <span>April 2019 -- July 2020/span>
+### <span>Digital Marketing Manager, Softicu Technology                   </span> <span>April 2019 -- July 2020</span>
 
 Responsible for planning and creating marketing campaigns both online and offline, generating contents 
 that connects, engages and converts customers.
