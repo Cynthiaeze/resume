@@ -3,7 +3,7 @@
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
 - <cynthiaezeh.ck@gmail.com>
-- (234) 803 679 5578
+- +(234) 803 679 5578
 - [www.linkedin.com/in/cynthia-kelechi-eze-b85280175](www.linkedin.com/in/cynthia-kelechi-eze-b85280175)
 - 35, Alpha Beach Road, Igbo-Efon Lekki, Lagos
 
